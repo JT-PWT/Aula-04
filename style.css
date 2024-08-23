@@ -1,0 +1,45 @@
+body{
+    /*background-image: linear-gradient( rgb(204, 119, 119), green);*/
+    background-image: url("https://th.bing.com/th/id/R.5af97d375326c4c332b3a2d3ec3bf684?rik=Cc%2f2XJ9iwSnPkg&riu=http%3a%2f%2fwww.abim.inf.br%2fwp-content%2fuploads%2f2017%2f01%2fRobo-0.jpg&ehk=vWcu2PhUCo6lFdH%2bzJisQzN8bsa9ZH96YXNP%2fOpz7dk%3d&risl=&pid=ImgRaw&r=0");
+}
+
+p, ul{
+    color:rgb(18, 30, 196);
+    background-color: rgb(250, 250, 252);
+    font-size: 40px;    /* comentários no css*/
+    text-align: center;
+    margin:auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+
+
+
+}
+
+ol, id{ font-size: 20px; 
+
+
+}
+
+button{
+    font-size: 20px;
+
+
+}
+
+p style{
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*.Titulo{ 
+
+
+
+}
+
+/*.#seletor{
+
+
+}
